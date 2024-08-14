@@ -20,7 +20,7 @@ style  = "Italic"
 
 [font]
 builtin_box_drawing = false
-size = 12
+size = 16
 
 [font.offset]
 x = 0
