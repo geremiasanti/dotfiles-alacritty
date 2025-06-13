@@ -21,9 +21,9 @@ family = "Iosevka Nerd Font"
 #family = "JetBrainsMonoNL Nerd Font"
 #style  = "Italic"
 
-#[font]
+[font]
+size = 35
 #builtin_box_drawing = false
-#size = 28
 
 #[font.offset]
 #x = 0
