@@ -22,7 +22,7 @@ family = "Iosevka Nerd Font"
 #style  = "Italic"
 
 [font]
-size = 35
+size = 16
 #builtin_box_drawing = false
 
 #[font.offset]
